@@ -12,7 +12,7 @@ Uses OpenWeatherMap REST API
 
 Clean, beginner-friendly Python code
 
-🛠 Technologies Used
+🛠 Technologies Used 
 Python 3
 
 requests library
