@@ -46,14 +46,6 @@ git clone https://github.com/your-username/mock-weather-app.git
 cd mock-weather-app
 Run the script
 
-bash
-Copy
-Edit
 python weather_app.py
-🧪 Simulated Test Cases
-City	Temperature	Weather	Humidity	Wind Speed
-London	15°C	Light Rain	82%	4.1 m/s
-New York	22°C	Clear Sky	60%	2.5 m/s
-InvalidCity	N/A	Not Found	N/A	N/A
 
 You can modify or add more mock data directly in the script.
