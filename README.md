@@ -9,7 +9,7 @@ Search current weather by city name
 Displays temperature, description, humidity, and wind speed
 
 Uses OpenWeatherMap REST API
-
+ 
 Clean, beginner-friendly Python code
 
 🛠 Technologies Used 
