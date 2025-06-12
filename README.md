@@ -48,4 +48,35 @@ Run the script
 
 python weather_app.py
 
-You can modify or add more mock data directly in the script.
+🧠 How It Works
+Instead of calling an actual API, the script uses a dictionary named mock_data with weather info for:
+
+London
+
+New York
+
+InvalidCity (used to test error handling)
+
+You can expand this dictionary to include more cities or customize the data.
+
+📌 Use Cases
+Practice project for beginners
+
+Suitable for coding tutorials or offline demos
+
+Alternative for environments without internet access
+
+📈 Future Enhancements
+Add real-time weather API integration (e.g., OpenWeatherMap)
+
+Build a simple GUI with Tkinter
+
+Add command-line arguments for dynamic input
+
+Unit testing for validation
+
+✅ Author
+Developed by: [Your Name]
+Feel free to contribute, fork, or use it for your own learning!
+
+
