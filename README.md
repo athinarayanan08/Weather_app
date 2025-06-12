@@ -57,5 +57,3 @@ New York	22°C	Clear Sky	60%	2.5 m/s
 InvalidCity	N/A	Not Found	N/A	N/A
 
 You can modify or add more mock data directly in the script.
-
-
